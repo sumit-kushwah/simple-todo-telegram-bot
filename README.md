@@ -1,7 +1,7 @@
 # Todo-bot
 A simple Telegram todo list bot
 
-Seach on Telegram `@ksumit_todo_bot`
+Search on Telegram as `@ksumit_todo_bot`
 
 ### Commands
 - **/add** - add new task
